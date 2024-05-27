@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate software developer and student at [Your University/Institution]. Currently, I'm working on a Feedback-Form project for my university, where I'm gaining valuable experience in web development.
+I'm a passionate software developer and student at SGT UNiversity. Currently, I'm working on a Feedback-Form project for my university, where I'm gaining valuable experience in web development.
 
 ## My Interests
 
@@ -27,10 +27,11 @@ I'm a passionate software developer and student at [Your University/Institution]
 
 ## Projects
 
-- [To-Do List](link-to-project-1): Brief description of project 1.
-- [Library Management System](link-to-project-2): Brief description of project 2.
-- [Music Player](link-to-project-1): Brief description of project 1.
-- [Currency Convertor](link-to-project-1): Brief description of project 1.
+- [To-Do List](https://github.com/LiveKiller/CodSoft/tree/main/To-Do-List)): Brief description of project 1.
+- [Library Management System](https://github.com/LiveKiller/Library_Management): Brief description of project 2.
+- [Music Player](https://github.com/LiveKiller/technohacks/tree/main/Music_Player'): Brief description of project 1.
+- [Currency Convertor](https://github.com/LiveKiller/technohacks/tree/main/Currency%20Convert): Brief description of project 1.
+- 
 ## Skills
 
 - Programming Languages: 
@@ -44,11 +45,6 @@ I'm a passionate software developer and student at [Your University/Institution]
 - Tools: 
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Get in Touch
-
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin-profile)
-- Twitter: [@YourTwitterHandle](link-to-your-twitter-profile)
 
 Feel free to reach out to me! I'm always open to collaborations and new opportunities.
