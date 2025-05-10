@@ -1,6 +1,6 @@
 # Hi, I'm Savitender Singh! 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LiveKiller&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dawgNotSoEz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
 
@@ -19,18 +19,18 @@ I'm a passionate software developer and student at SGT UNiversity. Currently, I'
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiveKiller&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawgNotSoEz&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiveKiller&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawgNotSoEz&theme=radical)
 
 ## Projects
 
-- [To-Do List](https://github.com/LiveKiller/CodSoft/tree/main/To-Do-List)): Brief description of project 1.
-- [Library Management System](https://github.com/LiveKiller/Library_Management): Brief description of project 2.
-- [Music Player](https://github.com/LiveKiller/technohacks/tree/main/Music_Player'): Brief description of project 1.
-- [Currency Convertor](https://github.com/LiveKiller/technohacks/tree/main/Currency%20Convert): Brief description of project 1.
+- [To-Do List](https://github.com/dawgNotSoEz/CodSoft/tree/main/To-Do-List)): Brief description of project 1.
+- [Library Management System](https://github.com/dawgNotSoEz/Library_Management): Brief description of project 2.
+- [Music Player](https://github.com/dawgNotSoEz/technohacks/tree/main/Music_Player'): Brief description of project 1.
+- [Currency Convertor](https://github.com/dawgNotSoEz/technohacks/tree/main/Currency%20Convert): Brief description of project 1.
 - 
 ## Skills
 
