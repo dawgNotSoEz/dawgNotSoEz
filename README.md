@@ -1,50 +1,24 @@
-# Hi, I'm Savitender Singh! 👋
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dawgNotSoEz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## About Me
-
-I'm a passionate software developer and student at SGT UNiversity. Currently, I'm working on a Feedback-Form project for my university, where I'm gaining valuable experience in web development.
-
-## My Interests
-
-- 🔭 I’m currently working on: Feedback-Form for my University
-- 🌱 I’m currently learning: React.js
-- 💬 Ask me about: 
-  - ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  - ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)
-
-- 📫 How to reach me: [singhsavitender4031@gmail.com](mailto:singhsavitender4031@gmail.com)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawgNotSoEz&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawgNotSoEz&theme=radical)
-
-## Projects
-
-- [To-Do List](https://github.com/dawgNotSoEz/CodSoft/tree/main/To-Do-List)): Brief description of project 1.
-- [Library Management System](https://github.com/dawgNotSoEz/Library_Management): Brief description of project 2.
-- [Music Player](https://github.com/dawgNotSoEz/technohacks/tree/main/Music_Player'): Brief description of project 1.
-- [Currency Convertor](https://github.com/dawgNotSoEz/technohacks/tree/main/Currency%20Convert): Brief description of project 1.
-- 
-## Skills
-
-- Programming Languages: 
-  - ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-  - ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-- Web Technologies: 
-  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  - ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
-- Tools: 
-  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+# 💫 About Me:
+About Me<br>👋 Hi there! I'm Savitender Singh<br>I'm a passionate developer with a focus on both frontend and backend technologies. Currently studying and building projects that showcase my growing skills in web development.<br><br>💻 What I Do<br>🌐 Frontend Development with React, TypeScript, and modern CSS frameworks<br>🛠️ Backend Development using Node.js and various database technologies<br>🎮 Interactive web experiences and games like my Tic-Tac-Toe implementation<br>📱 Responsive and accessible web applications<br>🚀 My Journey<br>I'm on a continuous learning path, constantly exploring new technologies and frameworks to expand my skillset. My projects reflect my passion for clean code, intuitive user experiences, and innovative solutions.<br><br>🔍 What I'm Looking For<br>I'm open to collaboration opportunities, especially on projects that challenge me and allow me to grow as a developer. Whether it's contributing to open-source or working on exciting new applications, I'm always eager to connect with fellow developers.<br><br>📫 Connect With Me<br>📧 Email: singhsavitender4031@gmail.com<br>📍 Location: Delhi, India<br>📱 Phone: +91 9810746419<br>Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about tech!<br><br>"Code is like humor. When you have to explain it, it's bad." – Cory House
 
 
-Feel free to reach out to me! I'm always open to collaborations and new opportunities.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/savitendersingh) 
+
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dawgNotSoEz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dawgNotSoEz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dawgNotSoEz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dawgNotSoEz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dawgNotSoEz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
